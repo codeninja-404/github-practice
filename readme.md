@@ -1,6 +1,6 @@
-## to create new branch
+## To create new branch
 git checkout -b yourbranchname
-## to push to new branch 
+## To push to new branch 
 - git push --set-upstream origin yourbranchname
-or
 - git push -u origin yourbranchname
+### Both commit works the same way
