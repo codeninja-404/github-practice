@@ -8,3 +8,6 @@
 - `git push -u origin yourbranchname`
 
 
+## To solve conflict
+1. `git pull origin development`
+2. Resolve the conflict.
